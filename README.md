@@ -8,3 +8,7 @@ please don't hesitate to ask the owner/administrator of this organization to add
 As a corollary, **everything released in this repository is not guarranteed to be true.**  This reposite only gathers
 various evidence that there might or might not be something.  It is the responsibility of the reader to check whether
 the statements are true.
+
+However, if a member releases false information intentionally again and again, he/she will be kicked off.
+
+## Affairs Concerned in This Repository
